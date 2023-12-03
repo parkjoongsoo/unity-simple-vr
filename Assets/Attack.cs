@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Attack : MonoBehaviour
 {
+    float weight;
+    
     // Start is called before the first frame update
     void Start()
     {
